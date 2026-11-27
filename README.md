@@ -1,4 +1,4 @@
-# Laut (صوت) — AI-Powered German Phonetics & Pronunciation Coach
+# Laut — AI-Powered German Phonetics & Pronunciation Coach
 
 <p align="center">
   <img src="public/preview.png" alt="Laut Interface Preview - Pronunciation Evaluation, Substring Highlighting & Persian Coaching" width="720" />
