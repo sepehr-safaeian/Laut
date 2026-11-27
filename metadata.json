@@ -1,0 +1,6 @@
+{
+  "name": "Laut",
+  "description": "Minimalist German pronunciation practice with native audio playback and AI phonetic feedback in Persian.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
